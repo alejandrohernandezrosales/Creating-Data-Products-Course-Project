@@ -1,3 +1,4 @@
+library(shiny)
 shinyUI(
     pageWithSidebar(
         headerPanel("Legacy Currency Converter"),
